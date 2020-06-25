@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jodi Mead"
   avatar           : "jodi.png"
-  bio              : "Professor, Mathematics &nbsp;&nbsp;&nbsp;  co-Director Computing PhD"
+  bio              : "Professor, Mathematics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  co-Director Computing PhD"
   location         : "Boise, ID"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -187,7 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  students:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -244,7 +246,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _students
+  - scope:
+      path: ""
+      type: students
+    values:
+      layout: students
+      author_profile: true
+      share: true
 # Sass/SCSS
 sass:
   sass_dir: _sass
