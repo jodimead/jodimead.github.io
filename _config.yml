@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Jodi Mead"
 description              : &description "Professor, Mathematics"
 url                      : https://jodimead.github.io # the base hostname & protocol for your site e.g.
-baseurl                  : #"" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jodimead/jodimead.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Jodi Mead"
-  avatar           : "profile.png"
-  bio              : "Professor, Mathematics; co-Director Computing PhD"
+  avatar           : "jodi.png"
+  bio              : "Professor, Mathematics   co-Director Computing PhD"
   location         : "Boise, ID"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F5UNjjix0l6DSNdLG5EsCLmciZs5iMad_xdexhBO6_UNu1voOoK_exQTGZfs9JuNqOkaYe5CZrkz0OQaenuPVwtji_4Ww&user=auE9FVEAAAAJ"
-  email            :
+  email            :  "jmead@boisestate.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
