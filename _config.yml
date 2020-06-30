@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jodi Mead"
   avatar           : "jodi.png"
-  bio              : "Professor, Mathematics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  co-Director, Computing PhD &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Boise State University"
+  bio              : "Professor, Mathematics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  co-Director, Computing PhD<br /> Boise State University"
   location         : "Boise, ID"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
