@@ -6,7 +6,7 @@ date: 2020-02-01
 venue: 'Journal of Inverse and Ill-posed Problems'
 paperurl: https://jodimead.github.io/files/papers/joint_compact.pdf
 ---
-Abstract
+## Abstract
 ======
 Joint inversion of multiple data types was studied as early as 1975,
 where authors used the singular value decomposition to determine the degree of illconditioning of joint inverse problems. The authors demonstrated in several examples
