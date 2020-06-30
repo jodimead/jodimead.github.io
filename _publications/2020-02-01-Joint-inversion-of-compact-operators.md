@@ -4,10 +4,11 @@ collection: publications
 permalink: /publication/2020-02-01-Joint-inversion-of-compact-operators
 date: 2020-02-01
 venue: 'Journal of Inverse and Ill-posed Problems'
-paperurl: https://jodimead.github.io/files/papers/joint_compact.pdf
 ---
-## Abstract
-======
+
+Download [here](https://jodimead.github.io/files/papers/joint_compact.pdf)
+
+Abstract: 
 Joint inversion of multiple data types was studied as early as 1975,
 where authors used the singular value decomposition to determine the degree of illconditioning of joint inverse problems. The authors demonstrated in several examples
 that combining two physical models in a joint inversion, and effectively stacking discrete
