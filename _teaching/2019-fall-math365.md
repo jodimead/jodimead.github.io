@@ -12,7 +12,8 @@ This course is an introduction to computational mathematics for sophmore and jun
 
 [All class notes and exercises](https://jodimead.github.io/files/m365/math365.pdf)
 
-Notes and exercises by topic<br />
+##Notes and exercises by topic
+
 *[Following instructions](https://jodimead.github.io/files/m365/Icebreaker.pdf)
 *[Loops and Conditional Statements](https://jodimead.github.io/files/m365/loops.pdf)
 *[Python and Jupyter Notebooks](https://jodimead.github.io/files/m365/jupyter.pdf)
