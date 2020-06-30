@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-02-01-Joint-inversion-of-compact-operators
 date: 2020-02-01
 venue: 'Journal of Inverse and Ill-posed Problems'
-paperurl: https://jodimead.github.io/files/joint_compact.pdf
+paperurl: https://jodimead.github.io/files/papers/joint_compact.pdf
 ---
 Abstract
 ======
