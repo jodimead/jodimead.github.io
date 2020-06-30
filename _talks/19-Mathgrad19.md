@@ -1,0 +1,13 @@
+---
+title: "Inverse Methods and Imaging"
+collection: talks
+type: "Seminar"
+permalink: /talks/11/1/19-Mathgrad19
+venue: "Mathematics semina"
+date: 11/1/19
+location: "Boise State"
+---
+
+[More information here](https://jodimead.github.io/files/Mathgrad19.pdf)
+
+Inverse problems arise when we use data to create a mathematical model that can be used to predict or reach conclusions about a system of interest. For example, inverse problems arise when imaging the subsurface of the earth or when reconstructing a photographic image. Inverse problems are ill-posed either because there is no solution, infinitely many solutions or small changes in the data produce dramatically different results. These issues can be overcome by adding regularization or additional information about the mathematical model. I will discuss various ways of adding additional information to an inverse problem that make it well-posed and present examples in imaging and geophysics.
