@@ -7,7 +7,7 @@ venue: 'Lecture Notes in Computer Science (including subseries Lecture Notes in 
 
 ---
 
-<br><br><br>
+<br>
 
 Abstract:  New efficient numerical methods for hyperbolic and parabolic partial differential equations with delay terms are investigated. These equations model a development of cancer cells in human bodies. Our goal is to study numerical methods which can be applied in a parallel computing environment. We apply our new numerical method to the delay partial differential equations and analyse the error of the method. Numerical experiments confirm our theoretical results.
 
