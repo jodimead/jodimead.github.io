@@ -26,15 +26,15 @@ analysis of singular values of compact operators describing different data types
 an inversion helps identify which types of data are advantageous to combine in a joint
 inversion.
 
-Bibtex:
-@article{Ford_Mead_2020,
-    year = 2020,
-    month = {feb},
-    publisher = {Walter de Gruyter {GmbH}},
-    volume = {28},
-    number = {1},
-    pages = {105--118},
-    author = {Jodi L. Mead and James F. Ford},
-    title = {Joint inversion of compact operators},
-    journal = {Journal of Inverse and Ill-posed Problems}
+Bibtex:<br>
+@article{Ford_Mead_2020,<br>
+ &nbsp  &nbsp &nbsp  year = 2020,<br>
+ &nbsp  &nbsp &nbsp   month = {feb},<br>
+  &nbsp  &nbsp &nbsp  publisher = {Walter de Gruyter {GmbH}},<br>
+  &nbsp  &nbsp &nbsp  volume = {28},<br>
+  &nbsp  &nbsp &nbsp  number = {1},<br>
+  &nbsp  &nbsp &nbsp  pages = {105--118},<br>
+   &nbsp  &nbsp &nbsp author = {Jodi L. Mead and James F. Ford},<br>
+   &nbsp  &nbsp &nbsp title = {Joint inversion of compact operators},<br>
+  &nbsp  &nbsp &nbsp  journal = {Journal of Inverse and Ill-posed Problems}<br>
 }
