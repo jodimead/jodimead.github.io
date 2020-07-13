@@ -1,9 +1,19 @@
 ---
 title: "Stability of a pivoting strategy for parallel Gaussian elimination"
 collection: publications
-permalink: /publication/2001-01-01-Stability-of-a-pivoting-strategy-for-parallel-Gaussian-elimination
+lity: /publication/2001-01-01-Stability-of-a-pivoting-strategy-for-parallel-Gaussian-elimination
 date: 2001-01-01
 venue: 'BIT Numerical Mathematics'
-citation: ' J.L. Mead,  R.A. Renaut,  B.D. Welfert, &quot;Stability of a pivoting strategy for parallel Gaussian elimination.&quot; BIT Numerical Mathematics, 2001.'
+
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Stability+of+a+pivoting+strategy+for+parallel+Gaussian+elimination){:target="_blank"} for full citation
+Download [here](https://jodimead.github.io/files/papers/stability.pdf)
+
+Bibtex:<br>
+@article{Mead_etal_2001,<br>
+&nbsp; title = {Stability of a pivoting strategy for parallel Gaussian elimination},<br>
+&nbsp; journal = {BIT Numerical Mathematics},<br>
+&nbsp; year = {2001},<br>
+&nbsp; volume = {41},<br>
+&nbsp; number = {3},<br>
+&nbsp; pages = {633-639},<br>
+&nbsp; author = {Mead, J.L. and Renaut, R.A. and Welfert, B.D.}<br>}
