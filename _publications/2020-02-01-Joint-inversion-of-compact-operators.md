@@ -28,13 +28,13 @@ inversion.
 
 Bibtex:<br>
 @article{Ford_Mead_2020,<br>
- &nbsp  &nbsp &nbsp  year = 2020,<br>
- &nbsp  &nbsp &nbsp   month = {feb},<br>
-  &nbsp  &nbsp &nbsp  publisher = {Walter de Gruyter {GmbH}},<br>
-  &nbsp  &nbsp &nbsp  volume = {28},<br>
-  &nbsp  &nbsp &nbsp  number = {1},<br>
-  &nbsp  &nbsp &nbsp  pages = {105--118},<br>
-   &nbsp  &nbsp &nbsp author = {Jodi L. Mead and James F. Ford},<br>
-   &nbsp  &nbsp &nbsp title = {Joint inversion of compact operators},<br>
-  &nbsp  &nbsp &nbsp  journal = {Journal of Inverse and Ill-posed Problems}<br>
+&nbsp;  &nbsp; &nbsp;  year = 2020,<br>
+&nbsp;  &nbsp; &nbsp;   month = {feb},<br>
+&nbsp;  &nbsp; &nbsp;  publisher = {Walter de Gruyter {GmbH}},<br>
+&nbsp;  &nbsp; &nbsp;  volume = {28},<br>
+&nbsp;  &nbsp; &nbsp;  number = {1},<br>
+&nbsp;  &nbsp; &nbsp;  pages = {105--118},<br>
+&nbsp;  &nbsp; &nbsp; author = {Jodi L. Mead and James F. Ford},<br>
+&nbsp;  &nbsp; &nbsp; title = {Joint inversion of compact operators},<br>
+&nbsp;  &nbsp; &nbsp;  journal = {Journal of Inverse and Ill-posed Problems}<br>
 }
