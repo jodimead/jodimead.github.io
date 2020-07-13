@@ -2,7 +2,7 @@
 title: "Joint inversion of full-waveform GPR and ER data. Part 1"
 collection: publications
 permalink: /publication/2020-01-01-Joint-inversion-of-full-waveform-GPR-and-ER-data.-Part-1
-date: Accepted
+status: Accepted
 venue: 'Geophysics'
 
 ---
