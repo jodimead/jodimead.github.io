@@ -1,11 +1,10 @@
 ---
 title: "Joint inversion of full-waveform GPR and ER data. Part 1"
-collection: publications
+
 permalink: /publication/2020-01-01-Joint-inversion-of-full-waveform-GPR-and-ER-data.-Part-1
 ---
-Submitted to Geophysics
-
-Download [here](https://math.boisestate.edu/~mead/papers/joint.pdf)
+Submitted to Geophysics, 
+download [here](https://math.boisestate.edu/~mead/papers/joint.pdf)
 
 Abstract: 
 We develop an algorithm for joint inversion of full-waveform ground-penetrating radar
