@@ -25,3 +25,16 @@ quantify the improvement over individual inversions. Results from this work show
 analysis of singular values of compact operators describing different data types before
 an inversion helps identify which types of data are advantageous to combine in a joint
 inversion.
+
+Bibtex:
+@article{Ford_Mead_2020,
+    year = 2020,
+    month = {feb},
+    publisher = {Walter de Gruyter {GmbH}},
+    volume = {28},
+    number = {1},
+    pages = {105--118},
+    author = {Jodi L. Mead and James F. Ford},
+    title = {Joint inversion of compact operators},
+    journal = {Journal of Inverse and Ill-posed Problems}
+}
