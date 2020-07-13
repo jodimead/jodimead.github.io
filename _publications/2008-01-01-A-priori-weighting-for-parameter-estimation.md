@@ -6,6 +6,8 @@ date: 2008-01-01
 venue: 'Journal of Inverse and Ill-posed Problems'
 ---
 Download [here](https://math.boisestate.edu/~mead/papers/mead.pdf)
+
+Abstract:
 We propose a new approach to weighting initial parameter misfits in a least squares optimization problem for linear parameter estimation. Parameter misfit weights are found by solving an
 optimization problem which ensures the penalty function has the properties of a χ^2
 random variable
