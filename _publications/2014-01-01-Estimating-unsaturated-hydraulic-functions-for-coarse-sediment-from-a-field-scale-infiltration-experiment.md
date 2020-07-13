@@ -35,7 +35,8 @@ fraction does not markedly reduce infiltration at low saturation levels that
 develop under natural recharge conditions.
 
 Bibtex:<br>
-@article{Thoma_2014,title = {Estimating unsaturated hydraulic functions for coarse sediment from a field-scale infiltration experiment},<br>
+@article{Thoma_2014,<br>
+&nbsp; title = {Estimating unsaturated hydraulic functions for coarse sediment from a field-scale infiltration experiment},<br>
 &nbsp;journal = {Vadose Zone Journal},<br>
 &nbsp;year = {2014},<br>
 &nbsp;volume = {13},<br>
