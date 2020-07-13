@@ -24,3 +24,13 @@ regularization parameter or weights on initial parameter estimate errors. This a
 a two-dimensional cross-well tomography problem and a one-dimensional electromagnetic problem
 from [R. C. Aster, B. Borchers, and C. Thurber, Parameter Estimation and Inverse Problems,
 Academic Press, New York, 2005].
+
+Bibtex:<br>
+@article{Mead_Hammerquist_2013,<br>
+&nbsp;  title = {Chi-sqaured tests for the choice of the regularization parameter in nonlinear inverse problems},<br>
+&nbsp;  journal = {SIAM Journal on Matrix Analysis and Applications},<br>
+&nbsp;  year = {2013},<br>
+&nbsp;  volume = {34},<br>
+&nbsp;  number = {3},<br>
+&nbsp;  pages = {1213-1230},<br>
+&nbsp;  author = {Mead, J.L. and Hammerquist, C.C.}<br>}

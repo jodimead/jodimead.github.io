@@ -25,3 +25,13 @@ presented contrast the efficiency and robustness with other standard methods for
 for a set of test problems and for the restoration of a relatively large real seismic signal. An application for image
 deblurring also validates the approach for large scale problems. We conclude that the presented approach is robust
 for both small and large scale discretely ill-posed least squares problems.
+
+Bibtex:<br>
+@article{Renaut_etal_2010,<br>
+&nbsp;  title = {Regularization parameter estimation for large-scale Tikhonov regularization using a priori information},<br>
+&nbsp;  journal = {Computational Statistics and Data Analysis},<br>
+&nbsp;  year = {2010},<br>
+&nbsp;  volume = {54},<br>
+&nbsp;  number = {12},<br>
+&nbsp;  pages = {3430-3445},<br>
+&nbsp;  author = {Renaut, R.A. and Hnetynkova, I. and Mead, J.}<br>}

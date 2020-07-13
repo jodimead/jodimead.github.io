@@ -19,3 +19,12 @@ regularization
 methods. The χ^2
 regularization method with quadratic constraints is the most effective method for solving least
 squares problems with box constraints.
+
+Bibtex:<br> @article{Mead_Renaut_2010,<br>
+&nbsp; title = {Least squares problems with inequality constraints as quadratic constraints},<br>
+&nbsp; journal = {Linear Algebra and Its Applications},<br>
+&nbsp; year = {2010},<br>
+&nbsp; volume = {432},<br>
+&nbsp; number = {8},<br>
+&nbsp; pages = {1936-1949},<br>
+&nbsp; author = {Mead, J.L. and Renaut, R.A.}<br> }

@@ -21,3 +21,13 @@ data collected in the Dry Creek Watershed near Boise, Idaho. Parameter estimates
 combine two different types of measurements, and weighting matrices are found that incorporate
 uncertainty due to spatial variation so that the parameters can be used over larger scales than those
 that were measured.
+
+Bibtex:<br>
+@article{Mead_2013,<br>
+&nbsp;  title = {Discontinuous parameter estimates with least squares estimators},<br>
+&nbsp;  journal = {Applied Mathematics and Computation},<br>
+&nbsp;  year = {2013},<br>
+&nbsp;  volume = {219},<br>
+&nbsp;  number = {10},<br>
+&nbsp;  pages = {5210-5223},<br>
+&nbsp;  author = {Mead, J.L.}<br>}

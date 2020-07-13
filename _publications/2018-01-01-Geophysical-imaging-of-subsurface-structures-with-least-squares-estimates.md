@@ -28,3 +28,13 @@ nd order derivative constraints than with initial parameter estimates. In additi
 we show that the 1st derivative constraint produces models with piecewise constant
 variability, while a 2nd derivative will yield linear variability. These conclusions are
 verified on synthetic ERT inversions in seven different subsurface structures.
+
+Bibtex:<br>
+@article{Mead_2018,<br>
+&nbsp;  title = {Geophysical imaging of subsurface structures with least squares estimates},<br>
+&nbsp;  journal = {Inverse Problems in Science and Engineering},<br>
+&nbsp;  year = {2018},<br>
+&nbsp;  volume = {26},<br>
+&nbsp;  number = {11},<br>
+&nbsp;  pages = {1656-1675},<br>
+&nbsp;  author = {Hetrick, H. and Mead, J.} <br>}

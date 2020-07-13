@@ -29,3 +29,15 @@ test introduced here for TV automates the choice of regularization
 parameter selection and can straightforwardly be incorporated into any TV
 algorithm. Results are given for three test images and compared to results
 using the discrepancy principle and MAP estimates.
+
+Bibtex:<br>
+@article{Mead_2020,<br>
+&nbsp;     year = 2020,<br>
+&nbsp; volume = {14},<br>
+&nbsp; number = {3},<br>
+&nbsp; pages = {401--421},<br>
+&nbsp; author = {Jodi L. Mead},<br>
+&nbsp; title = {Chi-squared test for total variation regularization parameter selection},<br>
+&nbsp; journal = {Inverse Problems & Imaging}<br>
+}
+
