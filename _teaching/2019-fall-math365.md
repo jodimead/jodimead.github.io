@@ -12,9 +12,9 @@ This course is an introduction to computational mathematics for sophmore and jun
 
 [All class notes and exercises](https://jodimead.github.io/files/m365/m365.pdf)
 
-Notes and exercises by topic
+Notes and exercises by topic:
 <ul>  
-  <li>[Following instructions](https://jodimead.github.io/files/m365/Icebreaker.pdf)
+  <li><a href="https://jodimead.github.io/files/m365/Icebreaker.pdf"></a>
   <li>[Loops and Conditional Statements](https://jodimead.github.io/files/m365/loops.pdf)
   <li>[Python and Jupyter Notebooks](https://jodimead.github.io/files/m365/jupyter.pdf)
   <li>[Functions](https://jodimead.github.io/files/m365/functions.pdf)
@@ -23,3 +23,4 @@ Notes and exercises by topic
   <li>[MATLAB](https://jodimead.github.io/files/m365/MATLAB.pdf)
   <li>[Polynomial Interpolation](https://jodimead.github.io/files/m365/interpolation.pdf)
   <li>[Curve Fitting](https://jodimead.github.io/files/m365/curve.pdf)
+</ul>
