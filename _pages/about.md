@@ -29,6 +29,10 @@ redirect_from:
 <!-- Wrapper for slides -->
 <div class="carousel-inner">
       <div class="item active">
+      <img src="../images/mathbldg.jpg" alt="math building" style="max-width:100%;">
+          </div>
+          
+<div class="item">
       <img src="../images/computing.png" alt="Computing program" style="max-width:100%;">
         <figcaption>https://boisestate.edu/computing</figcaption>
       </div>
@@ -42,6 +46,10 @@ redirect_from:
 <img src="../images/reg_choices.png" alt="Identifying structure" style="max-width:100%;">
   <figcaption> Hetrick et al, Inv. Prob. Sci. Eng., 2018</figcaption>
       </div>
+      <div class="item">
+      <img src="../images/laplace_as_chi_2.png" alt="TV Chi2" style="max-width:100%;">
+        <figcaption> Mead, Inv. Prob. Imag., 2020</figcaption>
+            </div>
     </div>
 
 <!-- Left and right controls -->
