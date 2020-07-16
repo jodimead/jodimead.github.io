@@ -30,15 +30,15 @@ redirect_from:
 <!-- Wrapper for slides -->
 <div class="carousel-inner">
       <div class="item active">
-      <img src="../images/computing.png" alt="https://boisestate.edu/computing" style="width:50%;">
+      <img src="../images/computing.png" alt="https://boisestate.edu/computing" style="max-width:100%;">
       </div>
 
 <div class="item">
-<img src="../images/conductivity.png" alt="Domenzain et al, Geophysics, 2020" style="width:50%;">
+<img src="../images/conductivity.png" alt="Domenzain et al, Geophysics, 2020" style="max-width:100%;">
       </div>
 
 <div class="item">
-<img src="../images/reg_choices.png" alt="Hetrick et al, Inv. Prob. Sci. Eng., 2018" style="width:50%;">
+<img src="../images/reg_choices.png" alt="Hetrick et al, Inv. Prob. Sci. Eng., 2018" style="max-width:100%;">
       </div>
     </div>
 
