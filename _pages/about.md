@@ -29,21 +29,21 @@ redirect_from:
 <!-- Wrapper for slides -->
 <div class="carousel-inner">
       <div class="item active">
-      <img src="../images/mathbldg.jpg" alt="math building" style="width:50%;">
+      <img src="../images/mathbldg.jpg" alt="math building" style="width:100%;" width="193" height="130">
           </div>
           
 <div class="item">
-      <img src="../images/computing.png" alt="Computing program" style="width:50%;">
+      <img src="../images/computing.png" alt="Computing program" style="width:100%;">
         <figcaption>https://boisestate.edu/computing</figcaption>
       </div>
 
 <div class="item">
-<img src="../images/conductivity.png" alt="ERT and GPR Part 2" style="width:50%;">
+<img src="../images/conductivity.png" alt="ERT and GPR Part 2" style="width:100%;">
   <figcaption> Domenzain et al, Geophysics, 2020 </figcaption>
       </div>
 
 <div class="item">
-<img src="../images/reg_choices.png" alt="Identifying structure" style="width:50%;">
+<img src="../images/reg_choices.png" alt="Identifying structure" style="width:100%;">
   <figcaption> Hetrick et al, Inv. Prob. Sci. Eng., 2018</figcaption>
       </div>
       <div class="item">
