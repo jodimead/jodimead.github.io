@@ -17,15 +17,15 @@ redirect_from:
 <!-- Wrapper for slides -->
 <div class="carousel-inner">
       <div class="item active">
-      <img src="../images/computing.png" alt="Los Angeles" style="width:100%;">
+      <img src="../images/computing.png" alt="https://boisestate.edu/computing" style="width:50%;">
       </div>
 
 <div class="item">
-<img src="../images/conductivity.png" alt="Chicago" style="width:50%;">
+<img src="../images/conductivity.png" alt="Domenzain et al, Geophysics, 2020" style="width:50%;">
       </div>
 
 <div class="item">
-<img src="../images/reg_choices.png" alt="New york" style="width:100%;">
+<img src="../images/reg_choices.png" alt="Hetrick et al, Inv. Prob. Sci. Eng., 2018" style="width:50%;">
       </div>
     </div>
 
