@@ -30,15 +30,18 @@ redirect_from:
 <!-- Wrapper for slides -->
 <div class="carousel-inner">
       <div class="item active">
-      <img src="../images/computing.png" alt="https://boisestate.edu/computing" style="max-width:100%;">
+      <img src="../images/computing.png" alt="Computing program" style="max-width:100%;">
+        <figcaption>https://boisestate.edu/computing</figcaption>
       </div>
 
 <div class="item">
-<img src="../images/conductivity.png" alt="Domenzain et al, Geophysics, 2020" style="max-width:100%;">
+<img src="../images/conductivity.png" alt="ERT and GPR Part 2" style="max-width:100%;">
+  <figcaption> Domenzain et al, Geophysics, 2020 </figcaption>
       </div>
 
 <div class="item">
-<img src="../images/reg_choices.png" alt="Hetrick et al, Inv. Prob. Sci. Eng., 2018" style="max-width:100%;">
+<img src="../images/reg_choices.png" alt="Identifying structure" style="max-width:100%;">
+  <figcaption> Hetrick et al, Inv. Prob. Sci. Eng., 2018</figcaption>
       </div>
     </div>
 
