@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Jodi Mead's personal website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -60,17 +59,3 @@ redirect_from:
 </body>
 </html>
  
-Please be patient.
-
-This is being updated
-======
-Thank you.
-
-
-
-**Using a smaller font**
-
-Using a bigger, non-bold font
-------
-Use this for quick reference. 
-
