@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
- <img src="images/jodi" alt="New york" style="width:100%;">
+<img src="../images/jodi.png" alt="New york" style="width:100%;">
  
 Please be patient.
 
