@@ -32,7 +32,7 @@ redirect_from:
       <img src="../images/inCCP" alt="math building" style="width:100%;">
           </div>
 <div class="item">
-      <img src="../images/mathbldg.jpg" alt="in CCP" style="width:100%;" width="10" height="10">
+      <img src="../images/mathbldg.jpg" alt="in CCP" style="width:100%;">
           </div>
           
 <div class="item">
