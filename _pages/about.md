@@ -115,24 +115,24 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 6</div>
-       <img src="../images/inCCP.png" alt="in CCP" width="300px" height="203px">
+       <img src="../images/inCCP.png" alt="in CCP" style="width:100%;">
           </div>
           
 <div class="mySlides fade">
             <div class="numbertext">2 / 6</div>
-           <img src="../images/mathbldg.png" alt="math building" width="300px" height="300px"> 
+           <img src="../images/mathbldg.png" alt="math building" style="width:100%;"> 
           <div class="text">Caption Two</div>
           </div>
           
 <div class="mySlides fade">
   <div class="numbertext">3 /6</div>
-  <img src="../images/computing.png" alt="Computing program" width="300px" height="109px">
+  <img src="../images/computing.png" alt="Computing program" style="width:100%;">
   <div class="text">https://boisestate.edu/computing</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">4 / 6</div>
-  <img src="../images/conductivity.png" alt="ERT and GPR Part 2" width="300px" height="100px">
+  <img src="../images/conductivity.png" alt="ERT and GPR Part 2" style="width:100%;">
   <div class="text">Domenzain et al, Geophysics, 2020 </div>
 </div>
 
