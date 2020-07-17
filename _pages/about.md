@@ -29,7 +29,7 @@ redirect_from:
 <!-- Wrapper for slides -->
 <div class="carousel-inner">
   <div class="item active">
-      <img src="../images/inCCP.jpg" alt="math building" style="width:100%;" width="50" height="33">
+      <img src="../images/inCCP" alt="math building" style="width:100%;">
           </div>
 <div class="item">
       <img src="../images/mathbldg.jpg" alt="in CCP" style="width:100%;" width="10" height="10">
