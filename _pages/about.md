@@ -118,7 +118,7 @@ img {vertical-align: middle;}
           </div>
           
 <div class="mySlides fade">
-           <img src="../images/mathbldg.png" alt="math building" width="200px" height="200px" class="center"> 
+      <center>  <img src="../images/mathbldg.png" alt="math building" width="200px" height="200px" class="center"> </center>
           </div>
           
 <div class="mySlides fade">
