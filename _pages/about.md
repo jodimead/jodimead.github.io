@@ -133,8 +133,8 @@ img {vertical-align: middle;}
 </div>
 
 <div class="mySlides fade">
- <img src="../images/laplace_as_chi_2.png" alt="TV Chi2" style="width:100%;">
-  <figcaption>Mead, Inv. Prob. Imag., 2020 </figcaption>
+  <center> <img src="../images/laplace_as_chi_2.png" alt="TV Chi2" width="341px" height="385px">
+<figcaption>Mead, Inv. Prob. Imag., 2020 </figcaption> </center>
 </div>
 
 <div class="mySlides fade">
