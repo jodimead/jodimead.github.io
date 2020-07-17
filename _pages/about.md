@@ -38,7 +38,7 @@ redirect_from:
       </div>
 
 <div class="item">
-<img src="../images/conductivity.png" alt="ERT and GPR Part 2" style="width:100%;">
+<img src="../images/conductivity.png" alt="ERT and GPR Part 2" style="width:100%;" width="436px" height="144px">
   <figcaption> Domenzain et al, Geophysics, 2020 </figcaption>
       </div>
 
