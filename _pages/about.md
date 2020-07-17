@@ -118,7 +118,7 @@ img {vertical-align: middle;}
           </div>
           
 <div class="mySlides fade">
-           <img src="../images/mathbldg.png" alt="math building" width="350px" height="350px"> 
+           <img src="../images/mathbldg.png" alt="math building" width="350px" height="350px" class="center"> 
           </div>
           
 <div class="mySlides fade">
@@ -127,18 +127,18 @@ img {vertical-align: middle;}
 </div>
 
 <div class="mySlides fade">
-  <img src="../images/conductivity.png" alt="ERT and GPR Part 2" width="500px" height="167px">
+  <img src="../images/conductivity.png" alt="ERT and GPR Part 2" style="width:100%;">
   <figcaption>Domenzain et al, Geophysics, 2020 </figcaption>
 </div>
 
 <div class="mySlides fade">
- <img src="../images/laplace_as_chi_2.png" alt="TV Chi2" width="350px" height="405px">
-  <div class="text">Mead, Inv. Prob. Imag., 2020 </div>
+ <img src="../images/laplace_as_chi_2.png" alt="TV Chi2" style="width:100%;">
+  <figcaption>Mead, Inv. Prob. Imag., 2020 </figcaption>
 </div>
 
 <div class="mySlides fade">
- <img src="../images/reg_choices.png" alt="Identifying structure" width="500px" height="228px">
- <div class="text">Hetrick, Inv. Prob. Sci. Eng., 2018 </div>
+ <img src="../images/reg_choices.png" alt="Identifying structure" style="width:100%;">
+ <figcaption>Hetrick, Inv. Prob. Sci. Eng., 2018</figcaption>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
