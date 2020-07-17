@@ -111,49 +111,77 @@ img {vertical-align: middle;}
 </head>
 <body>
 
-
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
-       <img src="inCCP.png" alt="in CCP" width="300px" height="203px">
-          </div>
-
-<div class="item">
-      <img src="../images/mathbldg.jpg" alt="math building" style="width:100%;">
+  <div class="numbertext">1 / 6</div>
+       <img src="../images/inCCP.png" alt="in CCP" width="300px" height="203px">
           </div>
           
-<div class="item">
-      <img src="../images/computing.png" alt="Computing program" style="width:100%;">
-        <figcaption>https://boisestate.edu/computing</figcaption>
-      </div>
-
-<div class="item">
-<img src="../images/conductivity.png" alt="ERT and GPR Part 2" style="width:100%;" width="436px" height="144px">
-  <figcaption> Domenzain et al, Geophysics, 2020 </figcaption>
-      </div>
-
-<div class="item">
-<img src="../images/reg_choices.png" alt="Identifying structure" style="width:100%;">
-  <figcaption> Hetrick et al, Inv. Prob. Sci. Eng., 2018</figcaption>
-      </div>
-      <div class="item">
-      <img src="../images/laplace_as_chi_2.png" alt="TV Chi2" style="width:50%;">
-        <figcaption> Mead, Inv. Prob. Imag., 2020</figcaption>
-            </div>
-    </div>
-
-<!-- Left and right controls -->
-<a class="left carousel-control" href="#myCarousel" data-slide="prev">
-      <span class="glyphicon glyphicon-chevron-left"></span>
-      <span class="sr-only">Previous</span>
-    </a>
-    <a class="right carousel-control" href="#myCarousel" data-slide="next">
-      <span class="glyphicon glyphicon-chevron-right"></span>
-      <span class="sr-only">Next</span>
-    </a>
-  </div>
+<div class="mySlides fade">
+            <div class="numbertext">2 / 6</div>
+           <img src="../images/mathbldg.jpg" alt="math building" style="width:100%;"> 
+          <div class="text">Caption Two</div>
+          </div>
+          
+<div class="mySlides fade">
+  <div class="numbertext">3 /6</div>
+  <img src="../images/computing.png" alt="Computing program" style="width:100%;">
+  <div class="text">https://boisestate.edu/computing</div>
 </div>
+
+<div class="mySlides fade">
+  <div class="numbertext">4 / 6</div>
+  <img src="../images/conductivity.png" alt="ERT and GPR Part 2" style="width:100%;">
+  <div class="text">Domenzain et al, Geophysics, 2020 </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">5 / 6</div>
+ <img src="../images/reg_choices.png" alt="Identifying structure" style="width:100%;">
+  <div class="text">Mead, Inv. Prob. Imag., 2020 </div>
+</div>
+
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span>
+  <span class="dot" onclick="currentSlide(2)"></span>
+  <span class="dot" onclick="currentSlide(3)"></span>
+</div>
+
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+}
+</script>
 
 </body>
 </html>
