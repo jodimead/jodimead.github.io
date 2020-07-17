@@ -119,6 +119,7 @@ img {vertical-align: middle;}
           
 <div class="mySlides fade">
       <center>  <img src="../images/mathbldg.png" alt="math building" width="200px" height="200px" class="center"> </center>
+      <figcaption>Mathematics Building at Boise State</figcaption>
           </div>
           
 <div class="mySlides fade">
