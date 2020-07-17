@@ -114,31 +114,31 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 6</div>
        <img src="../images/inCCP.png" alt="in CCP" style="width:100%;">
           </div>
           
 <div class="mySlides fade">
-            <div class="numbertext">2 / 6</div>
-           <img src="../images/mathbldg.png" alt="math building" style="width:100%;"> 
+           <img src="../images/mathbldg.png" alt="math building" width="350px" height="350px"> 
           </div>
           
 <div class="mySlides fade">
-  <div class="numbertext">3 /6</div>
   <img src="../images/computing.png" alt="Computing program" style="width:100%;">
    <figcaption>https://boisestate.edu/computing</figcaption>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">4 / 6</div>
   <img src="../images/conductivity.png" alt="ERT and GPR Part 2" width="500px" height="167px">
   <figcaption>Domenzain et al, Geophysics, 2020 </figcaption>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">5 / 6</div>
- <img src="../images/reg_choices.png" alt="Identifying structure" width="300px" height="137px">
+ <img src="../images/laplace_as_chi_2.png" alt="TV Chi2" width="350px" height="405px">
   <div class="text">Mead, Inv. Prob. Imag., 2020 </div>
+</div>
+
+<div class="mySlides fade">
+ <img src="../images/reg_choices.png" alt="Identifying structure" width="500px" height="228px">
+ <div class="text">Hetrick, Inv. Prob. Sci. Eng., 2018 </div>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
