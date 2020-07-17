@@ -120,25 +120,25 @@ img {vertical-align: middle;}
           
 <div class="mySlides fade">
             <div class="numbertext">2 / 6</div>
-           <img src="../images/mathbldg.jpg" alt="math building" style="width:100%;"> 
+           <img src="../images/mathbldg.png" alt="math building" width="300px" height="300px"> 
           <div class="text">Caption Two</div>
           </div>
           
 <div class="mySlides fade">
   <div class="numbertext">3 /6</div>
-  <img src="../images/computing.png" alt="Computing program" style="width:100%;">
+  <img src="../images/computing.png" alt="Computing program" width="300px" height="109px">
   <div class="text">https://boisestate.edu/computing</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">4 / 6</div>
-  <img src="../images/conductivity.png" alt="ERT and GPR Part 2" style="width:100%;">
+  <img src="../images/conductivity.png" alt="ERT and GPR Part 2" width="300px" height="100px">
   <div class="text">Domenzain et al, Geophysics, 2020 </div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">5 / 6</div>
- <img src="../images/reg_choices.png" alt="Identifying structure" style="width:100%;">
+ <img src="../images/reg_choices.png" alt="Identifying structure" width="300px" height="137px">
   <div class="text">Mead, Inv. Prob. Imag., 2020 </div>
 </div>
 
