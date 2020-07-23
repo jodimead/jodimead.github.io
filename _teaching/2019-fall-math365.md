@@ -14,13 +14,14 @@ This course is an introduction to computational mathematics for sophmore and jun
 
 Notes and exercises by topic:
 <ul>  
-  <li><a href="https://jodimead.github.io/files/m365/Icebreaker.pdf"></a>
-  <li>[Loops and Conditional Statements](https://jodimead.github.io/files/m365/loops.pdf)
-  <li>[Python and Jupyter Notebooks](https://jodimead.github.io/files/m365/jupyter.pdf)
-  <li>[Functions](https://jodimead.github.io/files/m365/functions.pdf)
-  <li>[Working with data files](https://jodimead.github.io/files/m365/reading.pdf)
-  <li>[Linear Regression](https://jodimead.github.io/files/m365/regression.pdf)
-  <li>[MATLAB](https://jodimead.github.io/files/m365/MATLAB.pdf)
-  <li>[Polynomial Interpolation](https://jodimead.github.io/files/m365/interpolation.pdf)
-  <li>[Curve Fitting](https://jodimead.github.io/files/m365/curve.pdf)
+  <li><a href="https://jodimead.github.io/files/m365/Icebreaker.pdf">Following Instructions</a>
+  <li><a href="https://jodimead.github.io/files/m365/loops.pdf">Loops and Conditional Statements</a>
+  <li><a href="https://jodimead.github.io/files/m365/jupyter.pdf">Python and Jupyter Notebooks</a>
+  <li><a href="https://jodimead.github.io/files/m365/functions.pdf">Functions</a>
+  <li><a href="https://jodimead.github.io/files/m365/reading.pdf">Working with data files</a>
+  <li><a href="https://jodimead.github.io/files/m365/regression.pdf">Linear Regression</a>
+  <li><a href="https://jodimead.github.io/files/m365/MATLAB.pdf">MATLAB</a>
+  <li><a href="https://jodimead.github.io/files/m365/interpolation.pdf">Polynomial Interpolation</a>
+  <li><a href="https://jodimead.github.io/files/m365/curve.pdf">Curve Fitting</a>
 </ul>
+
