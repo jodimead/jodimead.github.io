@@ -1,10 +1,10 @@
 ---
-title: "2019 Rocky Mountain Mathematics Consortium Summer School"
+title: "Rocky Mountain Mathematics Consortium Summer School on Inverse Problems in Imaging"
 collection: teaching
 type: "Summer School"
 permalink: /teaching/2019-summer-rmmc-1
 venue: "University of Wyoming, Mathematics"
-date: 2016-06-03
+date: 2019-06-03
 location: "Laramie,Wy "
 ---
 Summer school on inverse problems and imaging for young scientists, graduate students, postdocs, and junior faculty in the Rocky Mountain area.
