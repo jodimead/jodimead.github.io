@@ -8,7 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-[Full CV](https://jodimead.github.io/files/vita20.pdf)
 
 Current Students
 ======
@@ -20,19 +19,19 @@ Current Students
 Past Students
 ======
 * Diego Domenzain, Geophysics PhD, 2019
-  Joint Inversion of GPR and ER Data
-  Postdoc, Colorado School of Mines
+  * [Joint Inversion of GPR and ER Data](https://https://math.boisestate.edu/~mead/diego.pdf)
+   * Postdoc, Department of Geophysics, Colorado School of Mines
 * James Ford, Mathematics MS, 2017
-  Joint Inversion of Compact Operators
-  Clearwater Analytics, Boise, ID
+  * [Joint Inversion of Compact Operators](https://https://math.boisestate.edu/~mead/james.pdf)
+  * Data Science Analyst, St. Lukes Health System, Boise, ID
 * Chad Hammerquist, Mathematics MS, 2012
-  A Statistical Method for Regularizing Nonlinear Inverse Problems
-  PhD candidate, Wood Science and Engineering, Oregon State University
+  *  [A Statistical Method for Regularizing Nonlinear Inverse Problems](/https://math.boisestate.edu/~mead/chad.pdf)
+   * PhD candidate, Mechanical Engineering, Oregon State University
 * Garrett Saunders, Mathematics MS, 2009
-  Weight Selection by Misfit Surfaces for Least Squares Estimation
-  Mathematics Faculty, BYU Idaho
-  PhD Mathematics, Utah State, 2014
+  * [Weight Selection by Misfit Surfaces for Least Squares Estimation](https://https://math.boisestate.edu/~mead/garrett.pdf)
+   *  PhD Mathematics, Utah State, 2014
+   * Mathematics Faculty, BYU Idaho
 * Shannon Murray, Mathematics MS, 2008
-  Mathematics Instructor, Kuna High School and Boise State U.
+  *  Lecturer, Mathematics Department, Boise State University
 * Rayna Treneva, Mathematics MS, 2007
-  Hewlett Packard, Sofia, Bulgaria
+  * Hewlett Packard, Sofia, Bulgaria
