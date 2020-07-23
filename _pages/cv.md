@@ -30,7 +30,7 @@ Work experience
 * 2019-2020: Associate Dean in Residence
   * Boise State University
   * Graduate College
-  * One year position:  Led mentoring activites and represented the College in meetings with students, faculty and administrators.
+  * One year position where I led mentoring activites and represented the College with students, faculty and administrators.
   
   * 2017: Visiting Scholar
     * Portland State University
@@ -53,11 +53,11 @@ Funding
 ======
 * NSF Division of Mathematical Sciences, 2003-Present
   * “Algorithms for Assessing and Improving Joint Inversion”, “Collaborative Research: Computational techniques for nonlinear joint inversion”, “Pacific Northwest Numerical Analysis Seminar ”, “ATD: Data-driven stochastic source inversion algorithms for event reconstruction of biothreat agent dispersion”, ”Mathematics in Near Sub-Surface Science”
-* EPA subcontract
+* EPA subcontract, 2005
   * ”Boise State University for developing multi-purpose sensors to detect and analyze environmental contaminants”
-* Office of Naval Research subcontract
+* Office of Naval Research subcontract, 2001
   * “Assimilation of Lagrangian Data into Regional Models”
-* NASA graduate research fellowship
+* NASA graduate research fellowship, 1998
   * “Numerical Methods for Problems in Computational Aeroacoustics”
   
 Service and leadership

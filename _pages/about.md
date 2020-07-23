@@ -110,6 +110,7 @@ img {vertical-align: middle;}
 </style>
 </head>
 <body>
+My current research is in computational inverse methods mainly applied to problems in the Geosciences, but also to more general imaging, signal processing and machine learning problems.  
 
 <div class="slideshow-container">
 
