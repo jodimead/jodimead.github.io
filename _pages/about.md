@@ -112,7 +112,7 @@ img {vertical-align: middle;}
 <body>
 <p> For the 2020-2021 academic year I am on sabbatical. </p>
 
-My current research is in computational inverse methods mainly applied to problems in the Geosciences, but also to more general imaging, signal processing and machine learning problems.  
+<p>My current research is in computational inverse methods mainly applied to problems in the Geosciences, but also to more general imaging, signal processing and machine learning problems.  </p>
 
 <div class="slideshow-container">
 

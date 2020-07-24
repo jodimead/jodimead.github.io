@@ -6,9 +6,6 @@ author_profile: true
 
 ---
 
-{% include base_path %}
-
-
 Current Students
 ======
 * Amrina Ferdous
@@ -19,10 +16,10 @@ Current Students
 Past Students
 ======
 * Diego Domenzain, Geophysics PhD, 2019
-  * [Joint Inversion of GPR and ER Data](https://https://math.boisestate.edu/~mead/diego.pdf)
+  * [Joint Inversion of GPR and ER Data]("../files/diego.pdf")
    * Postdoc, Department of Geophysics, Colorado School of Mines
 * James Ford, Mathematics MS, 2017
-  * [Joint Inversion of Compact Operators](https://https://math.boisestate.edu/~mead/james.pdf)
+  * [Joint Inversion of Compact Operators](https://math.boisestate.edu/~mead/james.pdf)
   * Data Science Analyst, St. Lukes Health System, Boise, ID
 * Chad Hammerquist, Mathematics MS, 2012
   *  [A Statistical Method for Regularizing Nonlinear Inverse Problems](/https://math.boisestate.edu/~mead/chad.pdf)
