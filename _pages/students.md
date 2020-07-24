@@ -16,16 +16,16 @@ Current Students
 Past Students
 ======
 * Diego Domenzain, Geophysics PhD, 2019
-  * [Joint Inversion of GPR and ER Data]("../files/diego.pdf")
+  * [Joint Inversion of GPR and ER Data](https://jodimead.github.io/files/diego.pdf)
    * Postdoc, Department of Geophysics, Colorado School of Mines
 * James Ford, Mathematics MS, 2017
-  * [Joint Inversion of Compact Operators](https://math.boisestate.edu/~mead/james.pdf)
+  * [Joint Inversion of Compact Operators](https://jodimead.github.io/files/james.pdf)
   * Data Science Analyst, St. Lukes Health System, Boise, ID
 * Chad Hammerquist, Mathematics MS, 2012
-  *  [A Statistical Method for Regularizing Nonlinear Inverse Problems](/https://math.boisestate.edu/~mead/chad.pdf)
+  *  [A Statistical Method for Regularizing Nonlinear Inverse Problems](https://jodimead.github.io/files/chad.pdf)
    * PhD candidate, Mechanical Engineering, Oregon State University
 * Garrett Saunders, Mathematics MS, 2009
-  * [Weight Selection by Misfit Surfaces for Least Squares Estimation](https://https://math.boisestate.edu/~mead/garrett.pdf)
+  * [Weight Selection by Misfit Surfaces for Least Squares Estimation](https://jodimead.github.io/files/garrett.pdf)
    *  PhD Mathematics, Utah State, 2014
    * Mathematics Faculty, BYU Idaho
 * Shannon Murray, Mathematics MS, 2008
