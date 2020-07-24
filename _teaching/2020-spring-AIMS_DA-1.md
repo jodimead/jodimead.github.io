@@ -29,7 +29,7 @@ Notes and exercises by topic:
   <li><a href="https://jodimead.github.io/files/DA/Lecture-Kalman.pdf">Kalman Filter exercises</a>
   <li><a href="https://jodimead.github.io/files/DA/Lecture-notes-Variational.pdf">Variational Data Assimilation</a>
 
-Quizes and Assignments:
+<p>Quizes and Assignments:</p>
   
 <li><a href="https://jodimead.github.io/files/DA/Quiz_1.pdf">Calculus of Variation</a><br> 
  <a href="https://jodimead.github.io/files/DA/quiz_1_soln.jpg">Solution</a>

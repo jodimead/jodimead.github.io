@@ -20,33 +20,26 @@ Education
 Work experience
 ======
 * 2009-Present: Professor; 2005-2009 Associate Professor; 2000-2005 Assistant Professor
-  * Boise State University
-  * Mathematics Department
+  * Mathematics Department, Boise State University
 
 * 2009-Present: Adjunct Faculty
-  * Arizona State University 
-  * School of Mathematical and Statistical Sciences
-
+  * School of Mathematical and Statistical Sciences, Arizona State University 
+  
 * 2019-2020: Associate Dean in Residence
-  * Boise State University
-  * Graduate College
+  * Graduate College, Boise State University
   * One year position where I led mentoring activites and represented the College with students, faculty and administrators.
   
 * 2017: Visiting Scholar
-  * Portland State University
-  * Computer Science Department
+  * Computer Science Department, Portland State University
     
  * 2013: Honorary Visiting Professor
-    * Flinders University, South Australia
-    * National Centre for Groundwater Research and Training
+    * National Centre for Groundwater Research and Training, Flinders University, South Australia
 
   * 2007: Visiting Professor
-    * Arizona State University University
-    * Mathematical Department
-    
+    * Mathematical Department, Arizona State University University
+
  * 1998-2000: Post-doctoral Fellow
-    * Oregon State University 
-    * College of Oceanic and Atmospheric Sciences
+    * College of Oceanic and Atmospheric Sciences, Oregon State University 
 
 
 Funding
