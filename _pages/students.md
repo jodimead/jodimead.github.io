@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "students"
 permalink: /students/
 author_profile: true
 

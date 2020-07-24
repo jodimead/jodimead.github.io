@@ -29,11 +29,11 @@ Notes and exercises by topic:
   <li><a href="https://jodimead.github.io/files/DA/Lecture-Kalman.pdf">Kalman Filter exercises</a>
   <li><a href="https://jodimead.github.io/files/DA/Lecture-notes-Variational.pdf">Variational Data Assimilation</a><br>
 
-<p>Quizes and Assignments:</p><br>
+Quizes and Assignments:
   
 <li><a href="https://jodimead.github.io/files/DA/Quiz_1.pdf">Calculus of Variation</a><br> 
  <a href="https://jodimead.github.io/files/DA/quiz_1_soln.jpg">Solution</a>
- <li><a href="https://jodimead.github.io/files/DA/Assignment_1.pdf">MLE and Bayesian</a> <br> Solutions:<a href="https://jodimead.github.io/files/DA/assignment_1_soln_p1.jpg">Problem 1 </a>, <a href="https://jodimead.github.io/files/DA/assignment_1_soln_p2.jpg">Problem 2</a>,<a href="https://jodimead.github.io/files/DA/assignment_1_soln_p3.jpg">Problem 3</a>
+ <li><a href="https://jodimead.github.io/files/DA/Assignment_1.pdf">MLE and Bayesian</a> <br> &nbsp; &nbsp;Solutions:<a href="https://jodimead.github.io/files/DA/assignment_1_soln_p1.jpg">Problem 1 </a>, <a href="https://jodimead.github.io/files/DA/assignment_1_soln_p2.jpg">Problem 2</a>,<a href="https://jodimead.github.io/files/DA/assignment_1_soln_p3.jpg">Problem 3</a>
 <li><a href="https://jodimead.github.io/files/DA/Quiz-2.pdf">Stochastic process</a> <br> 
  <a href="https://jodimead.github.io/files/DA/quiz_2_soln.jpg">Solution</a>
 <li><a href="https://jodimead.github.io/files/DA/Quiz_3.pdf">Kalman Filter</a> <br> 
