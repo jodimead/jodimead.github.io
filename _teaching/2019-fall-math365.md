@@ -23,5 +23,5 @@ Notes and exercises by topic:
   <li><a href="https://jodimead.github.io/files/m365/MATLAB.pdf">MATLAB</a>
   <li><a href="https://jodimead.github.io/files/m365/interpolation.pdf">Polynomial Interpolation</a>
   <li><a href="https://jodimead.github.io/files/m365/curve.pdf">Curve Fitting</a>
-</ul>
+
 
