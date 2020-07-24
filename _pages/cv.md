@@ -32,9 +32,9 @@ Work experience
   * Graduate College
   * One year position where I led mentoring activites and represented the College with students, faculty and administrators.
   
-  * 2017: Visiting Scholar
-    * Portland State University
-    * Computer Science Department
+* 2017: Visiting Scholar
+  * Portland State University
+  * Computer Science Department
     
  * 2013: Honorary Visiting Professor
     * Flinders University, South Australia
