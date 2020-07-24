@@ -1,18 +1,19 @@
 ---
 layout: archive
+title: "Students"
 permalink: /students/
 author_profile: true
 
 ---
 
-Current Students
+Current 
 ======
 * Amrina Ferdous
   * Computing Ph.D, Data Science emphasis
 * Jenny Thibodeau
   * Mathematics M.S., Applied Mathematics emphasis
 
-Past Students
+Past 
 ======
 * Diego Domenzain, Geophysics PhD, 2019
   * [Joint Inversion of GPR and ER Data](https://jodimead.github.io/files/diego.pdf)

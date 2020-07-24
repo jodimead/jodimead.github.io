@@ -28,12 +28,12 @@ Notes and exercises by topic:
   <li><a href="https://jodimead.github.io/files/DA/Lecture-notes-Kalman.pdf">Kalman Filter</a>
   <li><a href="https://jodimead.github.io/files/DA/Lecture-Kalman.pdf">Kalman Filter exercises</a>
   <li><a href="https://jodimead.github.io/files/DA/Lecture-notes-Variational.pdf">Variational Data Assimilation</a><br>
-
+<br>
 Quizes and Assignments:
   
 <li><a href="https://jodimead.github.io/files/DA/Quiz_1.pdf">Calculus of Variation</a><br> 
  <a href="https://jodimead.github.io/files/DA/quiz_1_soln.jpg">Solution</a>
- <li><a href="https://jodimead.github.io/files/DA/Assignment_1.pdf">MLE and Bayesian</a> <br> &nbsp; &nbsp;Solutions:<a href="https://jodimead.github.io/files/DA/assignment_1_soln_p1.jpg">Problem 1 </a>, <a href="https://jodimead.github.io/files/DA/assignment_1_soln_p2.jpg">Problem 2</a>,<a href="https://jodimead.github.io/files/DA/assignment_1_soln_p3.jpg">Problem 3</a>
+ <li><a href="https://jodimead.github.io/files/DA/Assignment_1.pdf">MLE and Bayesian</a> <br> &nbsp; &nbsp; &nbsp;Solutions:  <a href="https://jodimead.github.io/files/DA/assignment_1_soln_p1.jpg">Problem 1 </a>, <a href="https://jodimead.github.io/files/DA/assignment_1_soln_p2.jpg">Problem 2</a>,<a href="https://jodimead.github.io/files/DA/assignment_1_soln_p3.jpg">Problem 3</a>
 <li><a href="https://jodimead.github.io/files/DA/Quiz-2.pdf">Stochastic process</a> <br> 
  <a href="https://jodimead.github.io/files/DA/quiz_2_soln.jpg">Solution</a>
 <li><a href="https://jodimead.github.io/files/DA/Quiz_3.pdf">Kalman Filter</a> <br> 
@@ -41,5 +41,5 @@ Quizes and Assignments:
   <li><a href="https://jodimead.github.io/files/DA/2nd_make_up_quiz.pdf">3DVAR and Bayesian Inference</a>
   <li><a href="https://jodimead.github.io/files/DA/Make-up_quiz.pdf">3DVAR</a>
   <li><a href="https://jodimead.github.io/files/DA/final_quiz.pdf">Final</a> <br> 
-  Solution:  <a href="https://jodimead.github.io/files/DA/final_quiz_soln_p1.jpg">Problem 1</a>, <a href="https://jodimead.github.io/files/DA/final_quiz_soln_p2.jpg">Problem 2</a>
+  Solutions:  <a href="https://jodimead.github.io/files/DA/final_quiz_soln_p1.jpg">Problem 1</a>, <a href="https://jodimead.github.io/files/DA/final_quiz_soln_p2.jpg">Problem 2</a>
 
