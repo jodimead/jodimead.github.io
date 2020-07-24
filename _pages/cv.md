@@ -56,5 +56,5 @@ Funding
 Service and leadership
 ======
 * 2017-present: co-Director of PhD in Computing
-  * Graduate College
-  * Interdiscipinary program: 50 students with 30 advisors across 6 departments
+  * Interdiscipinary program in the Graduate College
+  * 50 students with 30 advisors across 6 departments
