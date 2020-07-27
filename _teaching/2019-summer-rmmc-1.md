@@ -1,5 +1,5 @@
 ---
-title: "RMMConsortium Summer School on Inverse Problems in Imaging"
+title: "RMMC Summer School on Inverse Problems in Imaging"
 collection: teaching
 type: "Summer School"
 permalink: /teaching/2019-summer-rmmc-1
