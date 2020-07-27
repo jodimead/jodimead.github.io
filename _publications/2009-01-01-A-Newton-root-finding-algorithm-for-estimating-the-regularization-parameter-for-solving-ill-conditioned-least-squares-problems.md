@@ -6,7 +6,7 @@ date: 2009-01-01
 venue: 'Inverse Problems'
 
 ---
-Download [here](https://math.boisestate.edu/~mead/papers/meadrenaut_submit.pdf)
+Download [here](https://jodimead.github.io/files/papers/meadrenaut_submit.pdf)
 
 Abstract: 
 We discuss the solution of numerically ill-posed overdetermined systems of equations using Tikhonov a-priori-based regularization. When the noise distribution on the measured data is available to appropriately weight the fidelity term, and the regularization is assumed to be weighted by inverse covariance information on the model parameters, the underlying cost functional becomes a random variable that follows a χ^2 distribution. The regularization parameter be then be found so that the optimal cost functional has this property. Under

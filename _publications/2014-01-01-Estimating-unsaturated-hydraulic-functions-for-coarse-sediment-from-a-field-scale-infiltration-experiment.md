@@ -6,7 +6,7 @@ date: 2014-01-01
 venue: 'Vadose Zone Journal'
 
 ---
-Download [here](https://math.boisestate.edu/~mead/infil.pdf)
+Download [here](jodimead.github.io/files/papers/infil.pdf)
 
 Abstract:
 Conglomeratic alluvial sediments (sand–gravel–cobbles) are common

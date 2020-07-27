@@ -6,7 +6,7 @@ date: 2018-01-01
 venue: 'Inverse Problems in Science and Engineering'
 
 ---
-Download [here](https://math.boisestate.edu/~mead/papers/boundary.pdf)
+Download [here](https://jodimead.github.io/files/papers/boundary.pdf)
 
 Abstract:
 Electrical resistivity tomography (ERT) is a useful tool for subsurface imaging.

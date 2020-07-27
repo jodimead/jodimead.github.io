@@ -6,7 +6,7 @@ date: 2020-01-01
 venue: 'Inverse Problems &amp; Imaging'
 
 ---
-Download [here](https://math.boisestate.edu/~mead/papers/TV.pdf)
+Download [here](https://jodimead.github.io/files/papers/TV.pdf)
 
 Abstract: 
 Total Variation (TV) is an effective method of removing noise in

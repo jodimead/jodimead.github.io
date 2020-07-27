@@ -6,7 +6,7 @@ date: 2013-01-01
 venue: 'Applied Mathematics and Computation'
 
 ---
-Download [here](https://math.boisestate.edu/~mead/papers/mead_diagonal.pdf)
+Download [here](https://jodimead.github.io/files/papers/mead_diagonal.pdf)
 
 Abstract: 
 We discuss weighted least squares estimates of ill-conditioned linear inverse problems where weights

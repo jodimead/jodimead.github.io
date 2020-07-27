@@ -6,7 +6,7 @@ date: 2013-01-01
 venue: 'SIAM Journal on Matrix Analysis and Applications'
 
 ---
-Download [here](https://math.boisestate.edu/~mead/papers/nonlinear.pdf)
+Download [here](https://jodimead.github.io/files/papers/nonlinear.pdf)
 
 Abstract: 
 We address discrete nonlinear inverse problems with weighted least squares and
