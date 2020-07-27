@@ -6,7 +6,7 @@ date: 2004-01-01
 venue: 'Journal of Computational Physics'
 
 ---
-Download [here](https://jodimead.github.io/files/papers/joint_compact.pdf)
+Download [here](https://jodimead.github.io/files/papers/lsw.pdf)
 
 Bibtex:<br>
 @article{Mead_2004,<br>

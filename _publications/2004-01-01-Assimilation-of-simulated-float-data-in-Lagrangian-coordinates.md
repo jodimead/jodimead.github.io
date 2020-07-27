@@ -6,7 +6,7 @@ date: 2004-01-01
 venue: 'Ocean Modelling'
 
 ---
-Download [here](https://math.boisestate.edu/~mead/papers/float.pdf)
+Download [here](https://jodimead.github.io/files/papers/float.pdf)
 
 Bibtex:<br>
 @article{Mead_2005,<br>

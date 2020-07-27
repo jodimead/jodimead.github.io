@@ -6,7 +6,7 @@ date: 2003-01-01
 venue: 'Journal of Marine Systems'
 
 ---
-Download [here](https://math.boisestate.edu/~mead/papers/toward.pdf)
+Download [here](https://jodimead.github.io/files/papers/toward.pdf)
 
 Bibtex:<br>
 @article{Mead_Bennett_2001,<br>

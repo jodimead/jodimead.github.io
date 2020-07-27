@@ -5,7 +5,7 @@ permalink: /publication/2008-01-01-A-priori-weighting-for-parameter-estimation
 date: 2008-01-01
 venue: 'Journal of Inverse and Ill-posed Problems'
 ---
-Download [here](https://math.boisestate.edu/~mead/papers/mead.pdf)
+Download [here](https://jodimead.github.io/files/papers/mead.pdf)
 
 Abstract:
 We propose a new approach to weighting initial parameter misfits in a least squares optimization problem for linear parameter estimation. Parameter misfit weights are found by solving an

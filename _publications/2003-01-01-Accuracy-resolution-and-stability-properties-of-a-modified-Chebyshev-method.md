@@ -6,7 +6,7 @@ date: 2003-01-01
 venue: 'SIAM Journal on Scientific Computing'
 
 ---
-Download [here](https://math.boisestate.edu/~mead/papers/modified.pdf)
+Download [here](https://jodimead.github.io/files/papers/modified.pdf)
 
 Bibtex:<br>
 @article{Mead_Renaut_2003,<br>

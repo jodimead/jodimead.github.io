@@ -6,7 +6,7 @@ date: 2005-01-01
 venue: 'Applied Numerical Mathematics'
 
 ---
-Download [here](https://math.boisestate.edu/~mead/papers/koswr.pdf)
+Download [here](https://jodimead.github.io/files/papers/koswr.pdf)
 
 Bibtex:<br>
 @article{Zubik_Mead_2005,<br>
