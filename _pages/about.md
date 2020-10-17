@@ -145,6 +145,26 @@ img {vertical-align: middle;}
  <figcaption>Hetrick, Inv. Prob. Sci. Eng., 2018</figcaption>
 </div>
 
+<div class="mySlides fade">
+ <img src="../images/reg_choices.png" alt="Identifying structure" style="width:100%;">
+ <figcaption>Hetrick, Inv. Prob. Sci. Eng., 2018</figcaption>
+</div>
+
+<div class="mySlides fade">
+ <img src="../images/reg_choices.png" alt="Identifying structure" style="width:100%;">
+ <figcaption>Hetrick, Inv. Prob. Sci. Eng., 2018</figcaption>
+</div>
+
+<div class="mySlides fade">
+ <img src="../images/reg_choices.png" alt="Identifying structure" style="width:100%;">
+ <figcaption>Hetrick, Inv. Prob. Sci. Eng., 2018</figcaption>
+</div>
+
+<div class="mySlides fade">
+ <img src="../images/reg_choices.png" alt="Identifying structure" style="width:100%;">
+ <figcaption>Hetrick, Inv. Prob. Sci. Eng., 2018</figcaption>
+</div>
+
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
 <a class="next" onclick="plusSlides(1)">&#10095;</a>
 
