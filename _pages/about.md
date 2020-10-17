@@ -147,22 +147,22 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
 <img src="../images/mores.jpg" alt="Identifying structure" style="width:100%;">
- <figcaption>Hetrick, Inv. Prob. Sci. Eng., 2018</figcaption>
+ <figcaption>Treasure valley sunset</figcaption>
 </div>
 
 <div class="mySlides fade">
 <img src="../images/sawtooths.jpg" alt="Identifying structure" style="width:100%;">
- <figcaption>Hetrick, Inv. Prob. Sci. Eng., 2018</figcaption>
+ <figcaption>Mountain biking in Sawtooths</figcaption>
 </div>
 
 <div class="mySlides fade">
 <img src="../images/wasatch.jpg" alt="Identifying structure" style="width:60%;">
- <figcaption>Hetrick, Inv. Prob. Sci. Eng., 2018</figcaption>
+ <figcaption>Snowboarding in Wasatch</figcaption>
 </div>
 
 <div class="mySlides fade">
 <img src="../images/melanie.jpg" alt="Identifying structure" style="width:60%;">
- <figcaption>Hetrick, Inv. Prob. Sci. Eng., 2018</figcaption>
+ <figcaption>Melanie</figcaption>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
