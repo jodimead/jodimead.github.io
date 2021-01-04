@@ -127,7 +127,7 @@ img {vertical-align: middle;}
           
 <div class="mySlides fade">
   <img src="../images/computing.png" alt="Computing program" style="width:100%;">
-   <figcaption>https://boisestate.edu/computing</figcaption>
+  <figcaption><a href="https://boisestate.edu/computing">boisestate.edu/computing</a></figcaption>
 </div>
 
 <div class="mySlides fade">
