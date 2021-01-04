@@ -147,7 +147,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
 <img src="../images/mores.jpg" alt="Identifying structure" style="width:100%;">
-  <figcaption>Chago's <a href="https://www.avyscience.com/">avalance course</a></figcaption>
+  <figcaption>Chago's <a href="https://www.avyscience.com/">avalanche course</a></figcaption>
 </div>
 
 <div class="mySlides fade">
