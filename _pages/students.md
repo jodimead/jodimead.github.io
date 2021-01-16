@@ -10,7 +10,11 @@ author_profile: true
 
 Current 
 ======
+* Ibrahim Olalekan Alabi (co-Advise with HP Marshall)
+  * Computing Ph.D, Data Science emphasis
 * Amrina Ferdous
+  * Computing Ph.D, Data Science emphasis
+* Evi Ofekeze (co-Advise with HP Marshall)
   * Computing Ph.D, Data Science emphasis
 * Jenny Thibodeau
   * Mathematics M.S., Applied Mathematics emphasis
@@ -19,7 +23,7 @@ Current
 
 Past 
 ======
-* Diego Domenzain, Geophysics PhD, 2019
+* Diego Domenzain (co-Advise with John Bradford), Geophysics PhD, 2019
   * [Joint Inversion of GPR and ER Data](https://jodimead.github.io/files/student_theses/diego.pdf)
    * Postdoc, Department of Geophysics, Colorado School of Mines
 * James Ford, Mathematics MS, 2017
