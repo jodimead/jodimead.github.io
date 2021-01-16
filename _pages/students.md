@@ -33,7 +33,7 @@ Past
    *  PhD Mathematics, Utah State, 2014
    * Mathematics Faculty, BYU Idaho
 * Shannon Murray, Mathematics MS, 2008
-*[Richards' Equation and its Constitutive Relations as as System of Differential-Algebraic Equations](https://jodimead.github.io/files/student_theses/shannon.pdf)
-  *  Lecturer, Mathematics Department, Boise State University
+   * [Richards' Equation and its Constitutive Relations as as System of Differential-Algebraic Equations](https://jodimead.github.io/files/student_theses/shannon.pdf)
+   * Lecturer, Mathematics Department, Boise State University
 * Rayna Treneva, Mathematics MS, 2007
   * Hewlett Packard, Sofia, Bulgaria

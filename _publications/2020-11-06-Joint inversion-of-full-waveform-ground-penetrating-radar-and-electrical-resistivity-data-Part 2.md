@@ -1,7 +1,7 @@
 ---
 title: "Joint inversion of full-waveform ground-penetrating radar and electrical resistivity data: Part 2: Enhancing low frequencies with the envelope transform and cross gradients"
 collection: publications
-permalink: /publication/2020-11-01-Joint inversion-of-full-waveform-ground-penetrating-radar-and-electrical-resistivity-data-Part 2
+permalink: /publication/2020-11-06-Joint inversion-of-full-waveform-ground-penetrating-radar-and-electrical-resistivity-data-Part 2
 date: 2020-11-06
 venue: 'Geophysics'
 ---
