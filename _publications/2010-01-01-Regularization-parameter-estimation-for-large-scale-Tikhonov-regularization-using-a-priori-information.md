@@ -6,7 +6,7 @@ date: 2010-01-01
 venue: 'Computational Statistics and Data Analysis'
 
 ---
-Download [here](jodimead.github.io/files/papers/paper04.pdf)
+Download [here](https://jodimead.github.io/files/papers/paper04.pdf)
 
 Abstract: 
 This paper is concerned with estimating the solutions of numerically ill-posed least squares problems

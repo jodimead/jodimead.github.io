@@ -5,7 +5,7 @@ permalink: /publication/2010-01-01-Least-squares-problems-with-inequality-constr
 date: 2010-01-01
 venue: 'Linear Algebra and Its Applications'
 ---
-Download [here](jodimead.github.io/files/papers/draft5.pdf)
+Download [here](https://jodimead.github.io/files/papers/draft5.pdf)
 
 Abstract:
 Linear least squares problems with box constraints are commonly solved to find model parameters within bounds
