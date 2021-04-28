@@ -6,7 +6,7 @@ date: 2021-02-01
 venue: 'Geophysics'
 ---
 
-Download [here](https://jodimead.github.io/files/papers/ER-25DR.pdf)
+Download [here](https://jodimead.github.io/files/papers/ER-25D.pdf)
 
 Abstract: 
 We present a memory and operation-count efficient 2.5D inversion algorithm of electrical
