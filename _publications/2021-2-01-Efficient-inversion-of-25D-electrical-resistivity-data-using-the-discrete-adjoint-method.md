@@ -2,11 +2,11 @@
 title: "Efficient inversion of 2.5D electrical resistivity data using the discrete adjoint method"
 collection: publications
 permalink: /publication/2021-2-01-Efficient-inversion-of-25D-electrical-resistivity-data-using-the-discrete-adjoint-method
-date: 2022-02-01
+date: 2021-02-01
 venue: 'Geophysics'
 ---
 
-Download [here](https://jodimead.github.io/files/papers/E-25DR.pdf)
+Download [here](https://jodimead.github.io/files/papers/ER-25DR.pdf)
 
 Abstract: 
 We present a memory and operation-count efficient 2.5D inversion algorithm of electrical
