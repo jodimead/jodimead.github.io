@@ -110,7 +110,6 @@ img {vertical-align: middle;}
 </style>
 </head>
 <body>
-<p> For the 2020-2021 academic year I am on sabbatical. </p>
 
 <p>My current research is in computational inverse methods mainly applied to problems in the Geosciences, but also to more general imaging, signal processing and machine learning problems.  Here’s a <a href="https://jodimead.github.io/files/COAS_article.pdf">profile</a> of me that was written for the Boise State College of Arts and Sciences newsletter. </p>
 
