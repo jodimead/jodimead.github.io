@@ -27,13 +27,13 @@ Past
 ======
 * Diego Domenzain (co-Advise with John Bradford), Geophysics PhD, 2019
   * [Joint Inversion of GPR and ER Data](https://jodimead.github.io/files/student_theses/diego.pdf)
-   * Postdoc, Department of Geophysics, Colorado School of Mines
+   * Postdoc, Department of Geoscience, Aarhus University, Denmark
 * James Ford, Mathematics MS, 2017
   * [Joint Inversion of Compact Operators](https://jodimead.github.io/files/student_theses/james.pdf)
   * Data Science Analyst, St. Lukes Health System, Boise, ID
 * Chad Hammerquist, Mathematics MS, 2012
   *  [A Statistical Method for Regularizing Nonlinear Inverse Problems](https://jodimead.github.io/files/student_theses/chad.pdf)
-   * PhD candidate, Mechanical Engineering, Oregon State University
+   * PhD Mechanical Engineering, Oregon State University, 2017
 * Garrett Saunders, Mathematics MS, 2009
   * [Weight Selection by Misfit Surfaces for Least Squares Estimation](https://jodimead.github.io/files/student_theses/garrett.pdf)
    *  PhD Mathematics, Utah State, 2014
