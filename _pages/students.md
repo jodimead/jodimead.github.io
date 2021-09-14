@@ -12,6 +12,8 @@ Current
 ======
 * Ibrahim Olalekan Alabi (co-Advise with HP Marshall)
   * Computing Ph.D, Data Science emphasis
+* Patricia Azike (co-Advise with Donna Calhoun)
+  * Computing Ph.D, Computational Math Science and Engineering emphasis
 * MarGhece Barnes
     * Mathematics M.S., Applied Mathematics emphasis
 * Evi Ofekeze (co-Advise with HP Marshall)
