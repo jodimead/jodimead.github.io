@@ -111,7 +111,7 @@ img {vertical-align: middle;}
 </head>
 <body>
 
-<p>My current research is in computational inverse methods mainly applied to problems in the Geosciences, but also to more general imaging, signal processing and machine learning problems.  Here’s a <a href="https://jodimead.github.io/files/COAS_article.pdf">profile</a> of me that was written for the Boise State College of Arts and Sciences newsletter. </p>
+<p>My current research is in  inverse methods and data assimilation mainly applied to problems in the Geosciences, but also to more general imaging, signal processing and machine learning problems.  Here’s a <a href="https://jodimead.github.io/files/COAS_article.pdf">profile</a> of me that was written for the Boise State College of Arts and Sciences newsletter. </p>
 
 <div class="slideshow-container">
 
