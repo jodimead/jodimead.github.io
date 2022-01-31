@@ -25,10 +25,6 @@ Work experience
 * 2009-Present: Adjunct Faculty
   * School of Mathematical and Statistical Sciences, Arizona State University 
   
-* 2019-2020: Associate Dean in Residence
-  * Graduate College, Boise State University
-  * One year position where I led mentoring activites and represented the College with students, faculty and administrators.
-  
 * 2017: Visiting Scholar
   * Computer Science Department, Portland State University
     
@@ -57,4 +53,10 @@ Service and leadership
 ======
 * 2017-present: co-Director of PhD in Computing
   * Interdiscipinary program in the Graduate College
-  * 50 students with 30 advisors across 6 departments
+  * 70 students with 36 advisors across 7 departments
+* 2019-2020: Associate Dean in Residence, Graduate College
+  * Led university-wide mentoring activites 
+  * Representative of the College during meetings and events with students, faculty and administrators.
+* 2007-2017:  Director of Graduate Studies, Department of Mathematics
+  * Developed policies and proceedures for the program which was created in 2006
+  * Average of 15 students each year
