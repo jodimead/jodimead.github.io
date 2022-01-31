@@ -1,7 +1,7 @@
 ---
 title: "Joint full-waveform ground-penetrating radar and electrical resistivity inversion applied to field data acquired on the surface"
 collection: publications
-permalink: /publication/2021-2-01-Joint-full-waveform-ground-penetrating-radar-and-electrical-resistivity-inversion-applied-to-field-data-acquired-on-the-surface
+permalink: /publication/2022-2-01-Joint-full-waveform-ground-penetrating-radar-and-electrical-resistivity-inversion-applied-to-field-data-acquired-on-the-surface
 date: 2022-02-01
 venue: 'Geophysics'
 ---
