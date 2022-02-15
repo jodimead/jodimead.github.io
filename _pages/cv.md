@@ -41,7 +41,7 @@ Work experience
 Funding
 ======
 * NSF Division of Mathematical Sciences, 2003-Present
-  * “Algorithms for Assessing and Improving Joint Inversion”, “Collaborative Research: Computational techniques for nonlinear joint inversion”, “Pacific Northwest Numerical Analysis Seminar ”, “ATD: Data-driven stochastic source inversion algorithms for event reconstruction of biothreat agent dispersion”, ”Mathematics in Near Sub-Surface Science”
+  * "Data-Enabled Modeling of Wildfire Smoke Transport",“Algorithms for Assessing and Improving Joint Inversion”, “Collaborative Research: Computational techniques for nonlinear joint inversion”, “Pacific Northwest Numerical Analysis Seminar ”, “ATD: Data-driven stochastic source inversion algorithms for event reconstruction of biothreat agent dispersion”, ”Mathematics in Near Sub-Surface Science”
 * EPA subcontract, 2005
   * ”Boise State University for developing multi-purpose sensors to detect and analyze environmental contaminants”
 * Office of Naval Research subcontract, 2001
