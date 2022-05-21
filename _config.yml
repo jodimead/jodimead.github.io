@@ -70,6 +70,10 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
+# Theme settings
+colors:
+  banner: "#007bff"
+rounded_corners: true
 
 # Analytics
 analytics:
