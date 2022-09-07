@@ -10,21 +10,20 @@ author_profile: true
 
 Current 
 ======
-* Ibrahim Olalekan Alabi (co-Advise with HP Marshall)
-  * Computing Ph.D, Data Science emphasis
 * Patricia Azike (co-Advise with Donna Calhoun)
   * Computing Ph.D, Computational Math Science and Engineering emphasis
-* MarGhece Barnes
-    * Mathematics M.S., Applied Mathematics emphasis
-* Evi Ofekeze (co-Advise with HP Marshall)
-  * Computing Ph.D, Data Science emphasis
+* Sandra Babyale (co-Advise with Donna Calhoun)
+  * Computing Ph.D, Computational Math Science and Engineering emphasis
 * Jenny Thibodeau
   * Mathematics M.S., Applied Mathematics emphasis
-* Ishrat Zaman
-  * Mathematics M.S., Statistics emphasis
+
 
 Past 
 ======
+* Ishrat Zaman, Mathematics M.S., Statistics emphasis, 2022
+  * [Regression Analysis of Resilience and COVID-19 in Idaho Counties](https://jodimead.github.io/files/student_theses/ishrat.pdf)
+* MarGhece Barnes, Mathematics M.S., Applied Mathematics emphasis, 2022
+  * [Relationships Between COVID-19 Infection Rates, Healthcare Access, Socioeconomic Status, and Cultural Diversity](https://jodimead.github.io/files/student_theses/marghece.pdf)
 * Diego Domenzain (co-Advise with John Bradford), Geophysics PhD, 2019
   * [Joint Inversion of GPR and ER Data](https://jodimead.github.io/files/student_theses/diego.pdf)
    * Postdoc, Department of Geoscience, Aarhus University, Denmark
@@ -34,6 +33,7 @@ Past
 * Chad Hammerquist, Mathematics MS, 2012
   *  [A Statistical Method for Regularizing Nonlinear Inverse Problems](https://jodimead.github.io/files/student_theses/chad.pdf)
    * PhD Mechanical Engineering, Oregon State University, 2017
+   * Data Scientist/Financial Statistician, Scentsy, Inc
 * Garrett Saunders, Mathematics MS, 2009
   * [Weight Selection by Misfit Surfaces for Least Squares Estimation](https://jodimead.github.io/files/student_theses/garrett.pdf)
    *  PhD Mathematics, Utah State, 2014
