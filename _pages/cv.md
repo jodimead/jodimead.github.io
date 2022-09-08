@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Full CV](https://jodimead.github.io/files/vita20.pdf)
+[Full CV](https://jodimead.github.io/files/vita22.pdf)
 
 Education
 ======
@@ -54,8 +54,8 @@ Funding
 Service and leadership
 ======
 * 2017-2022: co-Director of PhD in Computing
-  * Interdiscipinary program in the Graduate College
-  * 70 students with 36 advisors across 8 departments
+  * Interdiscipinary program located in the Graduate College
+  * Built with 60 students and 36 advisors across 8 departments
 * 2019-2020: Associate Dean in Residence, Graduate College
   * Led university-wide mentoring activites 
   * Representative of the College during meetings and events with students, faculty and administrators.

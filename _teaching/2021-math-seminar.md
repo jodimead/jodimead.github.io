@@ -1,9 +1,10 @@
 ---
 title: "Applied Mathematics and Statistics Seminar"
 collection: teaching
-type: "Tuesdays 3:00-3:50, 2021-2022"
+type: "Tuesdays 3:00-3:50"
 permalink: /teaching/2021-math-seminar
 venue: "Boise State University"
+date: 2022-03-20
 location: "Boise, Idaho"
 ---
 
