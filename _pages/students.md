@@ -33,7 +33,7 @@ Past
 * Chad Hammerquist, Mathematics MS, 2012
   *  [A Statistical Method for Regularizing Nonlinear Inverse Problems](https://jodimead.github.io/files/student_theses/chad.pdf)
    * PhD Mechanical Engineering, Oregon State University, 2017
-   * Data Scientist/Financial Statistician, Scentsy, Inc
+   * Data Scientist/Financial Statistician, Scentsy, Inc, Meridian, ID
 * Garrett Saunders, Mathematics MS, 2009
   * [Weight Selection by Misfit Surfaces for Least Squares Estimation](https://jodimead.github.io/files/student_theses/garrett.pdf)
    *  PhD Mathematics, Utah State, 2014

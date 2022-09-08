@@ -24,7 +24,7 @@ Work experience
 * 2009-Present: Professor; 2005-2009 Associate Professor; 2000-2005 Assistant Professor
   * Mathematics Department, Boise State University
 
-* 2009-Present: Adjunct Faculty
+* 2009-2021: Adjunct Faculty
   * School of Mathematical and Statistical Sciences, Arizona State University 
   
 * 2017: Visiting Scholar
