@@ -19,6 +19,8 @@ Education
 
 Work experience
 ======
+* 2022-Present: Program Manager
+  * Computational Mathematics Division, National Science Foundation
 * 2009-Present: Professor; 2005-2009 Associate Professor; 2000-2005 Assistant Professor
   * Mathematics Department, Boise State University
 
@@ -40,7 +42,7 @@ Work experience
 
 Funding
 ======
-* NSF Division of Mathematical Sciences, 2003-Present
+* NSF Division of Mathematical Sciences, 2003-2022
   * "Data-Enabled Modeling of Wildfire Smoke Transport",“Algorithms for Assessing and Improving Joint Inversion”, “Collaborative Research: Computational techniques for nonlinear joint inversion”, “Pacific Northwest Numerical Analysis Seminar ”, “ATD: Data-driven stochastic source inversion algorithms for event reconstruction of biothreat agent dispersion”, ”Mathematics in Near Sub-Surface Science”
 * EPA subcontract, 2005
   * ”Boise State University for developing multi-purpose sensors to detect and analyze environmental contaminants”
@@ -51,9 +53,9 @@ Funding
   
 Service and leadership
 ======
-* 2017-present: co-Director of PhD in Computing
+* 2017-2022: co-Director of PhD in Computing
   * Interdiscipinary program in the Graduate College
-  * 70 students with 36 advisors across 7 departments
+  * 70 students with 36 advisors across 8 departments
 * 2019-2020: Associate Dean in Residence, Graduate College
   * Led university-wide mentoring activites 
   * Representative of the College during meetings and events with students, faculty and administrators.
