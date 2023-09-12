@@ -11,11 +11,11 @@ author_profile: true
 Current 
 ======
 * Patricia Azike (co-Advise with Donna Calhoun)
-  * Computing Ph.D, Computational Math Science and Engineering emphasis
+  * Computing Ph.D, Computational Math Science and Engineering 
 * Sandra Babyale (co-Advise with Donna Calhoun)
-  * Computing Ph.D, Computational Math Science and Engineering emphasis
-* Jenny Thibodeau
-  * Mathematics M.S., Applied Mathematics emphasis
+  * Computing Ph.D, Computational Math Science and Engineering 
+* Dominic Tapiwa Mwila
+  * Computing Ph.D, Data Science
 
 
 Past 
@@ -26,7 +26,7 @@ Past
   * [Relationships Between COVID-19 Infection Rates, Healthcare Access, Socioeconomic Status, and Cultural Diversity](https://jodimead.github.io/files/student_theses/marghece.pdf)
 * Diego Domenzain (co-Advise with John Bradford), Geophysics PhD, 2019
   * [Joint Inversion of GPR and ER Data](https://jodimead.github.io/files/student_theses/diego.pdf)
-   * Postdoc, Department of Geoscience, Aarhus University, Denmark
+   * Computational geophysicist, AGS-Seequent
 * James Ford, Mathematics MS, 2017
   * [Joint Inversion of Compact Operators](https://jodimead.github.io/files/student_theses/james.pdf)
   * Data Science Analyst, St. Lukes Health System, Boise, ID
@@ -36,7 +36,7 @@ Past
    * Data Scientist/Financial Statistician, Scentsy, Inc, Meridian, ID
 * Garrett Saunders, Mathematics MS, 2009
   * [Weight Selection by Misfit Surfaces for Least Squares Estimation](https://jodimead.github.io/files/student_theses/garrett.pdf)
-   *  PhD Mathematics, Utah State, 2014
+   * PhD Mathematics, Utah State, 2014
    * Mathematics Faculty, BYU Idaho
 * Shannon Murray, Mathematics MS, 2008
    * [Richards' Equation and its Constitutive Relations as as System of Differential-Algebraic Equations](https://jodimead.github.io/files/student_theses/shannon.pdf)

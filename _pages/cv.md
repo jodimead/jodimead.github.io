@@ -20,7 +20,7 @@ Education
 Work experience
 ======
 * 2022-Present: Program Manager
-  * Computational Mathematics Division, National Science Foundation
+  * Computational Mathematics Program, Division of Mathematical Sciences, National Science Foundation
 * 2009-Present: Professor; 2005-2009 Associate Professor; 2000-2005 Assistant Professor
   * Mathematics Department, Boise State University
 
