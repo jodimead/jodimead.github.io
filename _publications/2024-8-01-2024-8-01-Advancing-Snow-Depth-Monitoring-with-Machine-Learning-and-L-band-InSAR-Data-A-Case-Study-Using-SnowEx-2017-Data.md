@@ -3,7 +3,7 @@ title: "Advancing Snow Depth Monitoring with Machine Learning and L-band InSAR D
 collection: publications
 permalink: /publication/2024-8-01-2024-8-01-Advancing-Snow-Depth-Monitoring-with-Machine-Learning-and-L-band-InSAR-Data-A-Case-Study-Using-SnowEx-2017-Data
 date: 2024-08-01
-venue: 'Frontiers'
+
 ---
 
 Download [here](https://jodimead.github.io/files/papers/alabi_et_al.pdf)
