@@ -19,7 +19,7 @@ Bibtex:<br>
 &nbsp;  volume = {},<br>
 &nbsp;  number = {},<br>
 &nbsp;  pages = {},<br>
-&nbsp; author = {},<br>
-&nbsp; title = {Ibrahim Olalekan Alabi, Hans-Peter Marshall, Jodi Mead, Ernesto Trujillo},<br>
+&nbsp; author = {Ibrahim Olalekan Alabi, Hans-Peter Marshall, Jodi Mead, Ernesto Trujillo},<br>
+&nbsp; title = {Advancing Snow Depth Monitoring with Machine Learning and L-band InSAR Data: A Case Study Using SnowEx 2017 Data},<br>
 &nbsp;  journal = {}<br>
 }
