@@ -111,7 +111,7 @@ img {vertical-align: middle;}
 </head>
 <body>
 
-<p>My current research is in  inverse methods and data assimilation mainly applied to problems in the Geosciences, but also to more general imaging, signal processing and machine learning problems.  I am currently working with strong group of women at Boise State on wildfire smoke transport, and there is an <a href="https://www.boisestate.edu/news/2021/10/19/research-team-receives-grant-to-model-and-predict-wildfire-smoke-transport/">interesting article</a> written about it.  A  <a href="https://jodimead.github.io/files/COAS_article.pdf">profile article</a> about my career trajectory was written for the Boise State College of Arts and Sciences newsletter. </p>
+<p>I'm currently working at the NSF as a rotating Program Manager in the Computational Mathematics program. My specialized research and teaching interests are in inverse methods and data assimilation mainly applied to problems in the Geosciences, but also to more general imaging, signal processing and machine learning problems.  
 
 <div class="slideshow-container">
 
