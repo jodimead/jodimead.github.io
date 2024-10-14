@@ -111,7 +111,7 @@ img {vertical-align: middle;}
 </head>
 <body>
 
-<p>I'm currently working at the NSF as a rotating Program Manager in the Computational Mathematics program. My specialized research and teaching interests are in inverse methods and data assimilation mainly applied to problems in the Geosciences, but also to more general imaging, signal processing and machine learning problems.  
+<p>I'm currently on leave from Boise State, serving as a Program Manager at the National Science Foundation (NSF) in the Computational Mathematics program. My specialized research and teaching interests are in inverse methods and data assimilation mainly applied to problems in the Geosciences, but also to more general imaging, signal processing and machine learning problems.  
 
 <div class="slideshow-container">
 
