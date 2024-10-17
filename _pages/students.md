@@ -14,8 +14,8 @@ Current
   * Computing Ph.D, Computational Math Science and Engineering 
 * Sandra Babyale (co-Advise with Donna Calhoun)
   * Computing Ph.D, Computational Math Science and Engineering 
-* Dominic Tapiwa Mwila
-  * Computing Ph.D, Data Science (co-Advise with Mike Perlmutter)
+* Dominic Tapiwa Mwila (co-Advise with Mike Perlmutter)
+  * Computing Ph.D, Data Science 
 
 
 Past 
