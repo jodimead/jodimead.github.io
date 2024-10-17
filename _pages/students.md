@@ -26,7 +26,7 @@ Past
 * MarGhece Barnes, Mathematics M.S., Applied Mathematics emphasis, 2022
   * Thesis: [Relationships Between COVID-19 Infection Rates, Healthcare Access, Socioeconomic Status, and Cultural Diversity](https://jodimead.github.io/files/student_theses/marghece.pdf)
 * Diego Domenzain (co-Advise with John Bradford), Geophysics PhD, 2019
-  * Thesis: [Joint Inversion of GPR and ER Data](https://jodimead.github.io/files/student_theses/diego.pdf)
+  * Dissertation: [Joint Inversion of GPR and ER Data](https://jodimead.github.io/files/student_theses/diego.pdf)
    * Computational geophysicist, AGS-Seequent
 * James Ford, Mathematics MS, 2017
   * Thesis: [Joint Inversion of Compact Operators](https://jodimead.github.io/files/student_theses/james.pdf)
