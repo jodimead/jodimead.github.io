@@ -3,7 +3,7 @@ title: "Model Error Variance Estimation for Weak Constraint Data Assimilation"
 collection: publications
 permalink: /publication/2024-10-01-Model-Error-Variance-Estimation-for-Weak-Constraint-Data-Assimilation
 date: 2024-10-01
-venue: (submitted to SIAM/ASA Journal on Uncertainty Quantification)
+venue: (SIAM/ASA Journal on Uncertainty Quantification, in revision)
 ---
 
 Download [here](https://jodimead.github.io/files/papers/4dvar_reg.pdf)
