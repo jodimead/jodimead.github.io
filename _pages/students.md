@@ -10,21 +10,18 @@ author_profile: true
 
 Current 
 ======
-* Patricia Azike (co-Advise with Donna Calhoun)
-  * Computing Ph.D, Computational Math Science and Engineering 
 * Sandra Babyale (co-Advise with Donna Calhoun)
   * Computing Ph.D, Computational Math Science and Engineering 
-* Dominic Tapiwa Mwila (co-Advise with Mike Perlmutter)
-  * Computing Ph.D, Data Science 
 
 
 Past 
 ======
 * Ishrat Zaman, Mathematics M.S., Statistics emphasis, 2022
   * Thesis: [Regression Analysis of Resilience and COVID-19 in Idaho Counties](https://jodimead.github.io/files/student_theses/ishrat.pdf)
-  * PhD student, Public Health (Biostatistics), UNLV
+  * PhD student, Public Health (Biostatistics), University of Nevada Las Vegas
 * MarGhece Barnes, Mathematics M.S., Applied Mathematics emphasis, 2022
   * Thesis: [Relationships Between COVID-19 Infection Rates, Healthcare Access, Socioeconomic Status, and Cultural Diversity](https://jodimead.github.io/files/student_theses/marghece.pdf)
+  * PhD student, Aerospace Engineering, University of Buffalo
 * Diego Domenzain (co-Advise with John Bradford), Geophysics PhD, 2019
   * Dissertation: [Joint Inversion of GPR and ER Data](https://jodimead.github.io/files/student_theses/diego.pdf)
    * Computational geophysicist, AGS-Seequent
