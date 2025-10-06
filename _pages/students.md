@@ -10,7 +10,7 @@ author_profile: true
 
 Current 
 ======
-* Sandra Babyale (co-Advise with Donna Calhoun)
+* Sandra Babyale 
   * Computing Ph.D, Computational Math Science and Engineering 
 
 
