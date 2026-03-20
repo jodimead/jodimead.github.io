@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Full CV](https://jodimead.github.io/files/vita22.pdf)
+[Full CV](https://jodimead.github.io/files/vita26.pdf)
 
 Education
 ======

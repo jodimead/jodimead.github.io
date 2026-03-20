@@ -2,8 +2,8 @@
 title: "Model Error Variance Estimation for Weak Constraint Data Assimilation"
 collection: publications
 permalink: /publication/2024-10-01-Model-Error-Variance-Estimation-for-Weak-Constraint-Data-Assimilation
-date: 2024-10-01
-venue: (SIAM/ASA Journal on Uncertainty Quantification, in revision)
+date: 2025-01-01
+venue: (SIAM/ASA Journal on Uncertainty Quantification)
 ---
 
 Download [here](https://jodimead.github.io/files/papers/4dvar_reg.pdf)
@@ -13,13 +13,28 @@ State estimates from weak constraint four-dimensional variational (4D-Var) data 
 
 
 Bibtex:<br>
-@article{4dvar_reg,<br>
-&nbsp;  year = 2024,<br>
-&nbsp;  publisher = {},<br>
-&nbsp;  volume = {},<br>
-&nbsp;  number = {},<br>
-&nbsp;  pages = {},<br>
-&nbsp; author = {S. Babyale, J. Mead, D. Calhoun, P. Azike},<br>
-&nbsp; title = {Model Error Variance Estimation for Weak Constraint Data Assimilation},<br>
-&nbsp;  journal = {}<br>
+@article{doi:10.1137/24M1695889,
+author = {Babyale, Sandra R. and Mead, Jodi and Calhoun, Donna and Azike, Patricia O.},
+title = {Model Error Covariance Estimation for Weak Constraint Variational Data Assimilation},
+journal = {SIAM/ASA Journal on Uncertainty Quantification},
+volume = {13},
+number = {4},
+pages = {1828-1861},
+year = {2025},
+doi = {10.1137/24M1695889},
+
+URL = { 
+    
+        https://doi.org/10.1137/24M1695889
+    
+    
+
+},
+eprint = { 
+    
+        https://doi.org/10.1137/24M1695889
+    
+    
+
 }
+
