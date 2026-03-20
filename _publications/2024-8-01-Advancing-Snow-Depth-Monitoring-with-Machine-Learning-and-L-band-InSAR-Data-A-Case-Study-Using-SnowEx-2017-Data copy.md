@@ -14,19 +14,11 @@ Current snow depth mapping from space faces challenges in spatial coverage, revi
 
 Bibtex:<br>
 @ARTICLE{10.3389/frsen.2024.1481848,
-    
-AUTHOR={Alabi, Ibrahim Olalekan  and Marshall, Hans-Peter  and Mead, Jodi  and Trujillo, Ernesto },
-           
-TITLE={Advancing terrestrial snow depth monitoring with machine learning and L-band InSAR data: a case study using NASA’s SnowEx 2017 data},
-          
-JOURNAL={Frontiers in Remote Sensing},
-          
-VOLUME={Volume 5 - 2024},
-  
-YEAR={2025},
-  
-URL={https://www.frontiersin.org/journals/remote-sensing/articles/10.3389/frsen.2024.1481848},
-  
-DOI={10.3389/frsen.2024.1481848},
-  
-ISSN={2673-6187}}
+    AUTHOR={Alabi, Ibrahim Olalekan  and Marshall, Hans-Peter  and Mead, Jodi  and Trujillo, Ernesto },
+           TITLE={Advancing terrestrial snow depth monitoring with machine learning and L-band InSAR data: a case study using NASA’s SnowEx 2017 data},
+          JOURNAL={Frontiers in Remote Sensing},
+          VOLUME={Volume 5 - 2024},
+  YEAR={2025},
+  URL={https://www.frontiersin.org/journals/remote-sensing/articles/10.3389/frsen.2024.1481848},
+  DOI={10.3389/frsen.2024.1481848},
+  ISSN={2673-6187}}
