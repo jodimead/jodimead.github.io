@@ -10,8 +10,6 @@ author_profile: true
 
 Current 
 ======
-* Sandra Babyale 
-  * Computing Ph.D, Computational Math Science and Engineering 
 
 
 Past 
