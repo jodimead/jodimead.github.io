@@ -111,7 +111,7 @@ img {vertical-align: middle;}
 </head>
 <body>
 
-<p>I'm currently on leave from Boise State, serving as a Program Manager at the National Science Foundation (NSF) in the Computational Mathematics program. My specialized research and teaching interests are in inverse methods and data assimilation mainly applied to problems in the Geosciences, but also to more general imaging, signal processing and machine learning problems.  
+<p>I'm a Professor of Mathematics and Associate Director of the School of Computing at Boise State, and I recently returned from four years as an NSF Program Manager in Computational Mathematics. I develop mathematical and statistical methods for inverse problems: how to recover hidden structure from incomplete, noisy data, and how much to trust the result. My work spans regularization theory, uncertainty quantification, and data assimilation, with applications in the geosciences, imaging, and signal processing. More recently, I've been studying the theory behind learned approaches to inverse problems. My teaching brings this computational perspective into the classroom, from introductory programming for mathematics students to scientific computing and inverse methods. 
 
 <div class="slideshow-container">
 

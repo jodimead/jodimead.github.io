@@ -16,6 +16,9 @@ Current
 
 Past 
 ======
+* Sandra Babyale, Computing Ph.D, Computational Math Science and Engineering, 2026
+  * Dissertation: Regularization Methods for Variational Data Assimilation and Neural Network-Based Inversion
+  * Postdoc, Institute of Mathematics & Institute of Environmental Sciences and Geography, University of Potsdam
 * Ishrat Zaman, Mathematics M.S., Statistics emphasis, 2022
   * Thesis: [Regression Analysis of Resilience and COVID-19 in Idaho Counties](https://jodimead.github.io/files/student_theses/ishrat.pdf)
   * PhD student, Public Health (Biostatistics), University of Nevada Las Vegas
